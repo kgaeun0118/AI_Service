@@ -97,6 +97,10 @@ cp .env.example .env
 #    마지막 셀에서 분석 쿼리 선택 후 실행 → semiconductor_analysis_YYYYMMDD.pdf 생성
 ```
 
+## Documentation
+
+- [반도체 장비 총서 (Semiconductor Equipment Handbook)](docs/equipment-handbook/README.md) — 8대 공정 + 패키징 장비를 구조·부품·원리·공정 영향·발전사·실무 관리 관점에서 정리한 기본서 (26개 문서)
+
 ## Contributors
 
 - 김가은 : Workflow 정의, RAG Agent, Supervisor, agent 통합
